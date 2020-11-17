@@ -2,6 +2,7 @@
     "name": "ella-app",
     "version": "0.1.0",
     "private": true,
+    "homepage": "https://<github-username>.github.io/<project-repo>",
     "dependencies": {
         "@fortawesome/fontawesome-free": "^5.15.1",
         "@material-ui/core": "^4.11.0",
